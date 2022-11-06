@@ -1,5 +1,6 @@
 #### Aluno: Lucas Soares Brady
 #### Professor: Abrantes Araújo Silva Filho
+#### Turma: SI1N
  
 
 # Guia do trabalho Pset1
