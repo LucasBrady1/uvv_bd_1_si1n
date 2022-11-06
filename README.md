@@ -1,3 +1,7 @@
+#### Aluno: Lucas Soares Brady
+#### Professor: Abrantes Araújo Silva Filho
+ 
+
 # Guia do trabalho Pset1
 
 ## 1 O que é este repositório GitHub?
